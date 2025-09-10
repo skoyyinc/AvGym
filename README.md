@@ -6,6 +6,16 @@ A comprehensive robotics simulation environment for the SO-ARM101 robot focused 
 
 AvGym implements a hybrid approach combining **Reinforcement Learning (RL) search** with **Visual Servoing** for autonomous object tracking. The system intelligently switches between RL-based search behavior (when target is lost) and precise visual servoing control (when target is visible).
 
+
+
+https://github.com/user-attachments/assets/cf3c8689-3261-44fe-91e4-149aecd7acc9
+
+With occlusion
+https://github.com/user-attachments/assets/2fbbe2ab-2f3d-49ea-b8ae-260b878ecd08
+
+
+
+
 ### Key Features
 
 - **Hybrid Control System**: Automatic switching between RL search and visual servoing
