@@ -228,17 +228,6 @@ python scripts/evaluate_hybrid_policy.py \
 4. Push to the branch (`git push origin feature/AmazingFeature`)  
 5. Open a Pull Request
 
-## 📝 Citation
-
-If you use AvGym in your research, please cite:
-
-```bibtex
-@misc{avgym2024,
-  title={AvGym: Active Vision Gymnasium for Robotic Object Tracking},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/your-username/AvGym}
-}
 ```
 
 ## 📄 License
